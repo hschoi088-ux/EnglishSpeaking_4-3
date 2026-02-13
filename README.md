@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>기본동사 스피드퀴즈 Level 2</title>
+    <title>영어회화 스피드퀴즈 Level 2</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
