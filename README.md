@@ -33,7 +33,7 @@
 
     <div class="max-w-md mx-auto px-4 py-6">
         <header class="text-center mb-6">
-            <h1 class="text-2xl font-black text-indigo-600 tracking-tight italic">기본동사 스피드퀴즈</h1>
+            <h1 class="text-2xl font-black text-indigo-600 tracking-tight italic">영어회화 스피드퀴즈</h1>
             <p class="text-[10px] text-slate-400 mt-1 font-bold">DAY 051 - 075</p>
         </header>
 
